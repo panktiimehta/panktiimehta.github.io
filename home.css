@@ -1,0 +1,541 @@
+/*
+	@name home
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 2737.8781738281px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__home {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2737.88px;
+	background:rgba(255,255,255,1);
+}
+
+
+#__img___freebg_home {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2737.88px;
+}
+
+#top_bar {
+	top: 2737.88px;
+	left: 0px;
+	width: 1440px;
+	height: 135.88px;
+}
+
+#_bg__top_bar_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 135.88px;
+	background:rgba(255,255,255,1);
+}
+
+
+#_pankti_mehta_ux_ui_designer___architect___urban_designer {
+	top: 43px;
+	left: 63px;
+	width: 652.2px;
+	height: 51.2px;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	line-height: 46.2px;
+	text-align: left;
+	line-height: 42px;
+	letter-spacing: 1.5px;
+	color:#000000;
+}
+
+#menu_items {
+	top: 55px;
+	left: 1166px;
+	width: 209px;
+	height: 27px;
+}
+
+#_bg__menu_items_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 209px;
+	height: 27px;
+	background:#;
+}
+
+
+#_about {
+	top: 0px;
+	left: 0px;
+	width: 61.7px;
+	height: 31.7px;
+	font-family: Epilogue;
+	font-size: 17px;
+	line-height: 26.7px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	letter-spacing: 1.5px;
+	color:#2D2D2D;
+}
+
+
+#_work {
+	top: 0px;
+	left: 75px;
+	width: 51.7px;
+	height: 31.7px;
+	font-family: Epilogue;
+	font-size: 17px;
+	line-height: 26.7px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	letter-spacing: 1.5px;
+	color:#2D2D2D;
+}
+
+
+#_contact {
+	top: 0px;
+	left: 140px;
+	width: 79.7px;
+	height: 31.7px;
+	font-family: Epilogue;
+	font-size: 17px;
+	line-height: 26.7px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	letter-spacing: 1.5px;
+	color:#2D2D2D;
+}
+
+
+#vector_2 {
+	top: 82px;
+	left: 60px;
+	width: 219.59px;
+	height: 10.88px;
+}
+
+#intro {
+	top: 2873.76px;
+	left: 0px;
+	width: 1440px;
+	height: 573px;
+}
+
+#_bg__intro_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 573px;
+	background:#;
+}
+
+#frame_1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 573px;
+}
+
+#_bg__frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 573px;
+	background:rgba(255,255,255,1);
+}
+
+
+#img_0605_2 {
+	top: -1225.5px;
+	left: -1296px;
+	width: 4032px;
+	height: 3024px;
+	background:rgba(255,255,255,0);
+}
+
+#photo {
+	top: 0px;
+	left: 720px;
+	width: 720px;
+	height: 573px;
+}
+
+#_bg__photo_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 720px;
+	height: 573px;
+	background:#;
+}
+
+
+#img_0623_1 {
+	top: -233px;
+	left: 0px;
+	width: 720px;
+	height: 960px;
+}
+
+#frame_2 {
+	top: 309px;
+	left: 92px;
+	width: 506px;
+	height: 145px;
+}
+
+#_bg__frame_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 506px;
+	height: 145px;
+	background:#;
+}
+
+
+#i_craft_experiences_that_seamlessly_blend_form_and_function__my_work_is_rooted_in_human_centred_principles__ensuring_intuitive__beautiful__and_enduring_designs__i_m_dedicated_to_creating_spaces_and_interfaces_that_leave_a_lasting_impact_ {
+	top: 10px;
+	left: 7px;
+	width: 488px;
+	height: 130.8px;
+	font-family: Epilogue;
+	font-size: 18px;
+	text-align: justified;
+	line-height: 25px;
+	letter-spacing: 1.5px;
+	color:#000000;
+}
+
+#frame_3 {
+	top: 217px;
+	left: 92px;
+	width: 506px;
+	height: 70px;
+}
+
+#_bg__frame_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 506px;
+	height: 70px;
+	background:#;
+}
+
+
+#student_assistant___ssp_consult_i_student___rwth_aachen_architect_i_urban_designer_i_ux_ui_designer {
+	top: 10px;
+	left: 7px;
+	width: 488px;
+	height: 55.8px;
+	font-family: Epilogue;
+	font-size: 18px;
+	text-align: justified;
+	line-height: 25px;
+	letter-spacing: 0.69px;
+	color:#000000;
+}
+
+#group_1 {
+	top: 112px;
+	left: 102px;
+	width: 495.56px;
+	height: 70px;
+}
+
+#_bg__group_1_ek1 {
+	top: -112px;
+	left: -102px;
+	width: 495.56px;
+	height: 70px;
+	background:#;
+}
+
+
+#waving_hand_1f44b_1 {
+	top: 0px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+}
+
+
+#hello__i_am_pankti_mehta {
+	top: 14px;
+	left: 96px;
+	width: 409.2px;
+	height: 51.2px;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 42px;
+	letter-spacing: 1.5px;
+	color:#000000;
+}
+
+
+#vector_1 {
+	top: 47px;
+	left: 265px;
+	width: 230.31px;
+	height: 8.53px;
+}
+
+#gallery_section {
+	top: 3446.76px;
+	left: 1px;
+	width: 1438px;
+	height: 1752px;
+}
+
+#_bg__gallery_section_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1438px;
+	height: 1752px;
+	background:rgba(255,255,255,1);
+}
+
+#group_12 {
+	top: 50px;
+	left: 623.83px;
+	width: 190.34px;
+	height: 42px;
+}
+
+#_bg__group_12_ek1 {
+	top: -50px;
+	left: -624px;
+	width: 190.34px;
+	height: 42px;
+	background:#;
+}
+
+
+#latest_work {
+	top: 0px;
+	left: -4px;
+	width: 189.2px;
+	height: 51.2px;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 42px;
+	letter-spacing: 1.5px;
+	color:#2D2D2D;
+}
+
+
+#vector_7 {
+	top: 32px;
+	left: -3px;
+	width: 193.34px;
+	height: 8.13px;
+}
+
+#frame_34 {
+	top: 192px;
+	left: 225px;
+	width: 988px;
+	height: 1510px;
+}
+
+#_bg__frame_34_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 988px;
+	height: 1510px;
+	background:#;
+}
+
+#frame_27_cls_a {
+	top: 192px;
+	left: 225px;
+	width: 450px;
+	height: 450px;
+	position: absolute;
+}
+
+#_bg___frame_27_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 450px;
+	background:#;
+}
+
+#frame_26 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 350px;
+}
+
+#_bg__frame_26_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 350px;
+	background:#;
+}
+
+#title___description {
+	top: 385px;
+	left: 0px;
+	width: 450px;
+	height: 65px;
+}
+
+#_bg__title___description_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 65px;
+	background:#;
+}
+
+
+#pausenbrot {
+	top: 0px;
+	left: 0px;
+	width: 462px;
+	height: 36px;
+	font-family: Epilogue;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	letter-spacing: 1.5px;
+	color:#2D2D2D;
+}
+
+
+#ux_ui_design {
+	top: 38px;
+	left: 0px;
+	width: 460.7px;
+	height: 31.7px;
+	font-family: Epilogue;
+	font-size: 17px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	letter-spacing: 1.5px;
+	color:#2D2D2D;
+}
+
+#frame_28_cls_a {
+	top: 192px;
+	left: 755px;
+	width: 450px;
+	height: 450px;
+	position: absolute;
+}
+
+#_bg___frame_28_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 450px;
+	background:#;
+}
+
+#group_25 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 450px;
+}
+
+#_bg__group_25_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 450px;
+	background:#;
+}
+
+#frame_26_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 350px;
+}
+
+#_bg__frame_26_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 350px;
+	background:#;
+}
+
+#title___description_ek2 {
+	top: 385px;
+	left: 0px;
+	width: 450px;
+	height: 65px;
+}
+
+#_bg__title___description_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 450px;
+	height: 65px;
+	background:#;
+}
+
+
+#news_consumption_diversifier {
+	top: 0px;
+	left: 0px;
+	width: 462px;
+	height: 36px;
+	font-family: Epilogue;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	letter-spacing: 1.5px;
+	color:#2D2D2D;
+}
+
+
+#ux_ui_design_ek1 {
+	top: 38px;
+	left: 0px;
+	width: 460.7px;
+	height: 31.7px;
+	font-family: Epilogue;
+	font-size: 17px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	letter-spacing: 1.5px;
+	color:#2D2D2D;
+}
+
+
+
+/* Add your custom CSS here */
